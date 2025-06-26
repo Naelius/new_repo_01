@@ -1,0 +1,22 @@
+[
+  {
+    "de": "Essen",
+    "en": "Food",
+    "is_default": true
+  },
+  {
+    "de": "Freizeit",
+    "en": "Leisure",
+    "is_default": true
+  },
+  {
+    "de": "Fixkosten",
+    "en": "Fixed costs",
+    "is_default": true
+  },
+  {
+    "de": "Sonstiges",
+    "en": "Other",
+    "is_default": true
+  }
+]

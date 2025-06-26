@@ -1,0 +1,3 @@
+# Für Budget-Manager (Python 3.8+ empfohlen)
+matplotlib
+# tkinter/ttk ist in Standard-Python enthalten 
