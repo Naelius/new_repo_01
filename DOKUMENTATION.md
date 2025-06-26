@@ -45,8 +45,7 @@ Ein flexibles, einfach bedienbares Tool zur Verwaltung von Einnahmen und Ausgabe
 │   ├── budget_core.py
 │   ├── budget_gui.py
 │   ├── budget_cli.py
-│   ├── translations.py
-│   └── budget_manager.py (ältere Terminal-Version, optional)
+│   └── translations.py
 │
 ├── data/               # Für Exportdateien und Kategorien (z. B. budget_export.txt, kategorien.json)
 │
